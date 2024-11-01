@@ -1,0 +1,74 @@
+== Changelog ==
+
+= 1.0.0 =
+* Initial release.
+
+= 2.0.0 =
+* Add UPS shipping rates
+* Added more Candapost rate options
+* Fixed shipping card design
+* Added log option
+* Added ability to use your personal carrier accounts to obtain rates.
+* Remove front end management with JS 
+
+= 2.0.2 =
+* Fix shipping bug 
+
+= 2.0.3 =
+* Fix curl api timeout
+
+= 3.0.0 =
+* Add multi warehouse shipping from address
+* Add Custom fallback rates
+* Added more shipping carrier methods to Canada Post and UPS
+* Updated system to work base on woocommerce store settings
+* Allow shipping to multiple countries
+* Updated rate list UI to display with carrier logo and expected days in words
+* Updated plugin overall speed
+* Connect and use rates from your UPS or Canada Post accounts
+* Fix bug when no postal code is entered
+* Fix bug displaying wrong delivery days for certain location
+* Fix bug not displaying rates for certain locations
+* Delete settings on plugin Delete
+* Add post handle to handle ajax calls
+* Update admin setting page UI display.
+
+= 3.0.1 = 
+* Fix Update Address book message display
+
+= 3.0.2 =
+* Fix Shipping option not displaying in cart page
+* Fix rates not displaying from user 
+* Fix display on cart page
+* Add city to cart option
+* Update Shipping unit to use store measurement system Imperial or Metric 
+
+= 3.0.3 = 
+* Fixed token expiration
+* Fixed amount display to 2 characters
+
+= 3.0.4 = 
+* Fixed shipping table not showing
+* Fixed rate not displaying
+
+= 3.0.5 =
+* Add new carrier Canpar
+* Update address book to location
+* Update API token refresh
+* Update plugin Description
+* Add dashboard alert for disconnected account
+
+== 3.0.6 ==
+* Update Description
+* Update Warehouse
+
+== 3.0.7 ==
+* Add more canpar rates
+* Update delivery dates
+
+== 3.0.8 ==
+* Update Canpar delivery date
+
+== 3.0.9 ==
+* Add USPS Carrier rates
+* Add city to warehouse location
